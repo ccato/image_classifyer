@@ -9,13 +9,11 @@ Models tested:
 - AWS Rekognition
 
 ## Requirements
-- AWS access key and secret
+- AWS access key, secret and region configured
 - Jupyter Notebook
 - Keras
 - NumPy
 - boto3
 
 ## Usage
-Install requirements and run the notebook.
-Model weights will be downloaded (takes a good while)
-
+Install requirements and run the notebook. Model weights will be downloaded (takes a good while). Run the cells in the notebook
