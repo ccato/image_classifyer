@@ -9,8 +9,11 @@ Models tested:
 - AWS Rekognition
 
 ## Requirements
-AWS access key and secret
-Jupyter
+- AWS access key and secret
+- Jupyter Notebook
+- Keras
+- NumPy
+- boto3
 
 ## Usage
 Install requirements and run the notebook.
